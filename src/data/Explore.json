@@ -1,0 +1,29 @@
+{
+    "people":[
+        {
+            "title":"Apirl Underwood",
+            "description":"CEO and Founder, local laboratort, CO-Founder"
+        },
+        {
+            "title":"Canh Dinh",
+            "description":"CEO and Founder, local laboratort, CO-Founder"
+        },
+        {
+            "title":"Tien Dat",
+            "description":"CEO and Founder, local laboratort, CO-Founder"
+        }
+    ],
+    "conversation":[
+        {
+            "title":"Tech",
+            "description":"Hello Hi One Two Three"
+        },
+        {
+            "title":"No",
+            "description":"Hello Hi One Two Three"
+        }, {
+            "title":"Logy",
+            "description":"Hello Hi One Two Three"
+        }
+    ]
+}
